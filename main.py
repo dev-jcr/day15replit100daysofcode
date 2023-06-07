@@ -1,3 +1,4 @@
+# While loop use case
 exit = "no"
 while exit == "no":
   animal_sound = input("What animal sound do you want to hear?")
